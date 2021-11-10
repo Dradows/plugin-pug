@@ -65,5 +65,5 @@
 	"peerDependencies": {
 		"prettier": "^2.3.0"
 	},
-	"packageManager": "pnpm@6.20.1"
+	"packageManager": "pnpm@6.21.0"
 }
